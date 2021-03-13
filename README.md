@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+# I'm Akshay V.R. the owner of the profile /akshayvr-programmer. I'm a passionate kid who loves to code. Please do have a look at my profile, my repositories and my Profile README.md.  
 
 
-Here are some ideas to get you started:
 
 <h2>- 🔭 I’m currently working on a signal-clone. </h2>
 <h2>- 🌱 I’m currently learning Native App Development using java, Kotlin and react-native. </h2>
