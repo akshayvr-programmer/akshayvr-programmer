@@ -11,7 +11,7 @@
 <h3>- 🤔 I’m looking for help with integrating machine learning and deep learning  models with web applications and native applications. </h3>
 <h3>- 💬 Ask me about anything related to the topics I've mentioned about which I might be interested to collaborate on. </h3>
 <h3>- 📫 How to reach me: You can reach me on my E-Mail: akshayvr2@gmail.com </h3>
-<h3>- 😄 Pronouns: He and His </h3>
+<h3>- 😄 Pronouns: He/Him </h3>
 <h3>- ⚡ Fun fact: I'm still in High School! </h3>
 
 [![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayvr-programmer)](https://github.com/anuraghazra/github-readme-stats)
