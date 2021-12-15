@@ -6,9 +6,9 @@
 
 
 <h3>- 🔭 I’m currently working on Axotronics/mughup. </h3>
-<h3>- 🌱 I’m currently learning Native App Development using java, Kotlin and react-native. </h3>
- <h3>- 👯 I’m looking to collaborate on anything related to AI/ML, competitive programming, reactjs, python, react-native, opencv, Arduino, ESP8266 etc. </h3>
-<h3>- 🤔 I’m looking for help with integrating machine learning and deep learning  models with web applications and native applications. </h3>
+<h3>- 🌱 I’m currently learning Express, Node.js, FastAPI and MERN Stack </h3>
+ <h3>- 👯 I’m looking to collaborate on anything related to AI/ML, competitive programming, reactjs, python, react-native, opencv, Arduino, ESP8266, FastAPI etc. </h3>
+<h3>- 🤔 I’m looking for help with integrating machine learning and deep learning  models with web applications. </h3>
 <h3>- 💬 Ask me about anything related to the topics I've mentioned about which I might be interested to collaborate on. </h3>
 <h3>- 📫 How to reach me: You can reach me on my E-Mail: akshayvr2@gmail.com </h3>
 <h3>- 😄 Pronouns: He/Him </h3>
