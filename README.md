@@ -14,7 +14,6 @@
 <h3>- 😄 Pronouns: He/Him </h3>
 <h3>- ⚡ Fun fact: I'm still in High School! </h3>
 
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akshayvr-programmer)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayvr-programmer)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshayvr-programmer&show_icons=true&theme=radical)
 
